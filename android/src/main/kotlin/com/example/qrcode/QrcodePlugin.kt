@@ -18,8 +18,5 @@ class QrcodePlugin:FlutterPlugin {
     }
 
     override fun onDetachedFromEngine(binding: FlutterPlugin.FlutterPluginBinding) {
-      FlutterPlugin.FlutterPluginBinding) {
-        channel.setMethodCallHandler(null)
-      }
     }
 }
