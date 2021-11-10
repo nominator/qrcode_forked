@@ -18,5 +18,6 @@ class QrcodePlugin:FlutterPlugin {
     }
 
     override fun onDetachedFromEngine(binding: FlutterPlugin.FlutterPluginBinding) {
+        // TODO("Not yet implemented")
     }
 }
